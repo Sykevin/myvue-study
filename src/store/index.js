@@ -6,7 +6,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     operation: '',
-
+    rank: '123',
     Li:{id:1,name:'sy',rank:'p6',online:true},
     Jia:{id:2,name:'liang',rank:'p6',online:true},
     Gou:{id:3,name:'ya',rank:'p6',online:true},
